@@ -1,2 +1,2 @@
-# Mazda-s-Supply-chain-Management
-​Led a research initiative on Mazda's supply chain, targeting inefficiencies in production, logistics, and distribution.
+# Mazda-Moror-Supply-chain-Management
+​Led a research initiative on Mazda's supply chain, targeting inefficiencies in production, logistics, and distribution. Analyzed the production process to uncover bottlenecks and evaluated distributor networks across North America and Europe to assess their impact. Assessed sales performance to identify market trends and challenges, and delivered actionable insights for optimization through detailed findings and recommendations.
